@@ -1,0 +1,17 @@
+﻿a_id,b_id,score
+insurgentes sur,carril reversible,0.2
+insurgentes sur,semaforizacion inteligente,0.8
+insurgentes sur,gestion dinamica,0.6
+insurgentes sur,mantenimiento prioritario,0.7
+anillo periferico sur,carril reversible,0.5
+anillo periferico sur,semaforizacion inteligente,0.4
+anillo periferico sur,gestion dinamica,0.3
+anillo periferico sur,mantenimiento prioritario,0.8
+calzada tlalpan,carril reversible,0.6
+calzada tlalpan,semaforizacion inteligente,0.8
+calzada tlalpan,gestion dinamica,0.6
+calzada tlalpan,mantenimiento prioritario,0.8
+circuito interior,carril reversible,0.8
+circuito interior,semaforizacion inteligente,0.7
+circuito interior,gestion dinamica,0.5
+circuito interior,mantenimiento prioritario,0.9
